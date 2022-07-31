@@ -68,13 +68,6 @@ html, body {
     font-size: 23px;
     color: black;
 }
-@media only screen and(min-width:481px)and(max-width:768px){
-    .navbar,.navbar ul li a,.navbar ul li a:hover,.container-1,.container-1 h1,.container-1 h2,.container-1 h4
-    
-    {
-        width:50%;
-        height:320px;
-    }
 
 #about {
     display: block;
